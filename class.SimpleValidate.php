@@ -7,7 +7,7 @@
  *   - alphaNumeric : [A-Z] and [0-9]
  *   - alphaSpace : [A-Z] plus [SPACE]
  *   - alpha : [A-Z]
- *	 - any : Any character
+ *   - any : Any character
  *   - numeric, integer, float, email, ip, url, subDomain, domain
  *
  * Usage:
